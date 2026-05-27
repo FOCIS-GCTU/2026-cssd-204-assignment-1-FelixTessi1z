@@ -1,4 +1,4 @@
-# File: my-initials.py
+# File: initials.py
 # Description: My Printed Initials using Python
 # Assignment Number: 02 
 # 
