@@ -14,7 +14,7 @@
 def main():
     # This function prints the initials F.K.J in a stylized large format using strings and print functions.
     print()
-    print("...F.K.J")
+    print("...F.K.J.")
     print()
     print("...FFFFFFFFFFFF........KKKK....KKKK.........JJJJJJJJJJ.....")
     print("...FFFFFFFFFFFF........KKKK...KKKK..........JJJJJJJJJJ.....")
